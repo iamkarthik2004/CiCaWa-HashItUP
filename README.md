@@ -27,7 +27,7 @@ A comprehensive digital platform that revolutionizes waste management by creatin
 
 ## 🏆 Team Members
 
-- **Karthik Krishnan** - Full Stack Developer
+- **Karthik Krishnan** - Full Stack Developer, UI/UX
 - **Deon George** - Backend Developer & AI Integration  
 - **Christopher Joshy** - Full Stack Developer & UI/UX (Leader)
 - **Amal Kuriyan** - Database Engineer & System Architecture
